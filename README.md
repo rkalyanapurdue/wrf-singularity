@@ -1,4 +1,4 @@
-# Singularity container recpies for WRF
+# Singularity container recipes for WRF
 
 Use the recipe file Singularity to build WRF using the GNU compilers
 
